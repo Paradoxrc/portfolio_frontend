@@ -25,7 +25,7 @@
 </template>
 
 <script setup>
-const name = "Akith Chandinu";
+const name = "Dinith Edirisinghe";
 const {
   data: projects,
   pending,
