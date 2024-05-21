@@ -18,7 +18,7 @@
     <ul>
       <li v-for="blog in blogs">
         <h3>{{ blog.title }}</h3>
-        <p>{{ blog.content }}</p>
+        <p>{{ blog.content }}</p>    
       </li>
     </ul>
   </div>
